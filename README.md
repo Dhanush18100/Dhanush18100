@@ -7,13 +7,10 @@
 
 - 🔭 I’m currently working on **MERN Projects**
 
-- 🌱 I’m currently learning **Backend**
-
 - 👯 I’m looking to collaborate on **MERN Projects**
 
-- 🤝 I’m looking for help with **MERN Projects**
+- 🤝 Open Source 
 
-- 💬 Ask me about **MERN**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
