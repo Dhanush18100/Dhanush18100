@@ -35,5 +35,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhanush18100&show_icons=true&locale=en&layout=compact" alt="dhanush18100" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhanush18100&show_icons=true&locale=en" alt="dhanush18100" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhanush18100&" alt="dhanush18100" /></p>
+⭐️ From [Dhanush](https://github.com/dhanush18100) 
