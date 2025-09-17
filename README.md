@@ -9,7 +9,7 @@
 - 🔭 Currently working on **MERN Projects**  
 - 👯 Open to collaborate on **FullStack / AI + MERN projects**  
 - 🤝 Active in **Open Source** contributions  
-- 📚 Exploring **Cloud, DevOps, and AI integrations with MERN**  
+- 📚 Exploring **React Native, and AI integrations with MERN**  
 - ⚡ Fun fact: I love solving coding problems and building side projects  
 
 
@@ -38,6 +38,6 @@
 
 <p align="left">
 <a href="https://www.linkedin.com/in/dhanush-a29b38284/" target="blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=for-the-badge" />
+ <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="40" />
 </a>
 </p>
