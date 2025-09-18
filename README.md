@@ -39,16 +39,6 @@
    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=FF6FFF&center=true&vCenter=true&width=600&lines=💻+Passionate+Coder;🚀+Future+Full-Stack+Developer;🌌+Lifelong+Learner!" />
 </p>
 
-<table align="center" style="border-collapse: collapse; background: #0D0D1A; border-radius: 12px; box-shadow: 0 0 20px #00F7FF, 0 0 30px #9B5DE5;">
-  <tr>
-    <td>
-      <img src="https://github-streak-stats-ruby.vercel.app/?user=Prashanti-Hebbar&theme=radical&ring=00F7FF&fire=9B5DE5&currStreakLabel=00F7FF&sideNums=9B5DE5&currStreakNum=00F7FF&sideLabels=9B5DE5&dates=00F7FF&hide_border=true" />
-    </td>
-    <td>
-      <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Prashanti-Hebbar?cardType=octocat&theme=radical&Ring=00F7FF&currStreakNum=9B5DE5&Background=0D0D1A&preferLogin=false&hide_border=true" />
-    </td>
-  </tr>
-</table>
 <p align="left">
 <a href="https://www.linkedin.com/in/dhanush-a29b38284/" target="blank">
  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="40" />
