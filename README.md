@@ -32,9 +32,7 @@
 <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40"/> </a>
 <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40"/> </a>
 </p>
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhanush18100&show_icons=true&locale=en&layout=compact&bg_color=00000000&title_color=00F7FF&text_color=9B5DE5&icon_color=00F7FF&hide_border=true" alt="dhanush18100" />
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhanush18100&show_icons=true&locale=en&layout=compact" alt="dhanush18100" /></p>
 
 <div align="center" style="background: #ffffff; border-radius: 12px; box-shadow: 0 0 20px #00F7FF, 0 0 30px #9B5DE5; display: inline-block; padding: 20px;">
   <img src="https://github-streak-stats-ruby.vercel.app/?user=dhanush18100&theme=radical&ring=00F7FF&fire=9B5DE5&currStreakLabel=00F7FF&sideNums=9B5DE5&currStreakNum=00F7FF&sideLabels=9B5DE5&dates=00F7FF&hide_border=true" />
