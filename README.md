@@ -34,11 +34,6 @@
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhanush18100&show_icons=true&locale=en&layout=compact" alt="dhanush18100" /></p>
 
-
-<p align="center">
-   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=FF6FFF&center=true&vCenter=true&width=600&lines=💻+Passionate+Coder;🚀+Future+Full-Stack+Developer;🌌+Lifelong+Learner!" />
-</p>
-
 <p align="left">
 <a href="https://www.linkedin.com/in/dhanush-a29b38284/" target="blank">
  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="40" />
