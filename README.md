@@ -10,7 +10,7 @@
 - 👯 Open to collaborate on **FullStack / AI + MERN projects**  
 - 🤝 Active in **Open Source** contributions  
 - 📚 Exploring **React Native, and AI integrations with MERN**  
-- ⚡ Fun fact: I love solving coding problems and building side projects  
+- ⚡ Fun fact: **I code best with chai and a good playlist! ☕🎶** 
 
 
 <h3 align="left">Connect with me:</h3>
