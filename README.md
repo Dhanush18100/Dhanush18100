@@ -34,16 +34,10 @@
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhanush18100&show_icons=true&locale=en&layout=compact" alt="dhanush18100" /></p>
 
-<table align="center" style="border-collapse: collapse; background: #0D0D1A; border-radius: 12px; box-shadow: 0 0 20px #00F7FF, 0 0 30px #9B5DE5; padding: 20px;">
-  <tr>
-    <td>
-      <img src="https://github-streak-stats-ruby.vercel.app/?user=dhanush18100&theme=radical&ring=00F7FF&fire=9B5DE5&currStreakLabel=00F7FF&sideNums=9B5DE5&currStreakNum=00F7FF&sideLabels=9B5DE5&dates=00F7FF&hide_border=true" />
-    </td>
-    <td>
-      <img src="https://awesome-github-stats.azurewebsites.net/user-stats/dhanush18100?cardType=octocat&theme=radical&Ring=00F7FF&currStreakNum=9B5DE5&Background=0D0D1A&preferLogin=false&hide_border=true" />
-    </td>
-  </tr>
-</table>
+<div align="center" style="background: #0D0D1A; border-radius: 12px; box-shadow: 0 0 20px #00F7FF, 0 0 30px #9B5DE5; display: inline-block; padding: 20px;">
+  <img src="https://github-streak-stats-ruby.vercel.app/?user=dhanush18100&theme=radical&ring=00F7FF&fire=9B5DE5&currStreakLabel=00F7FF&sideNums=9B5DE5&currStreakNum=00F7FF&sideLabels=9B5DE5&dates=00F7FF&hide_border=true" />
+</div>
+
 
 
 <p align="left">
