@@ -56,15 +56,27 @@
     <img src="https://skillicons.dev/icons?i=c" height="60" alt="c logo" />
   </a>
   <img width="12" />
-  <a href="https://aws.amazon.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=aws" height="60" alt="aws logo" />
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://skillicons.dev/icons?i=python" height="60" alt="python logo" />
   </a>
   <img width="12" />
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo" />
+  <a href="https://www.java.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo" />
+  </a>
+  <img width="12" />
+  <a href="https://www.figma.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=figma" height="60" alt="figma logo" />
+  </a>
+  <img width="12" />
+  <a href="https://github.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo" />
+  </a>
+  <img width="12" />
+  <a href="https://www.postman.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=postman" height="60" alt="postman logo" />
   </a>
 </div>
-<div>
+
  <div>
 
   <p><img align="left" style="background: #00F7FF" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhanush18100&show_icons=true&locale=en&layout=compact" alt="dhanush18100" /></p>
