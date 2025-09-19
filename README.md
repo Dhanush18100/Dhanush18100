@@ -9,7 +9,7 @@
 - 🔭 Currently working on **MERN Projects**  
 - 👯 Open to collaborate on **FullStack / AI + MERN projects**  
 - 🤝 Active in **Open Source** contributions  
-- 📚 Exploring **React Native, and AI integrations with MERN**  
+- 📚 Exploring **Problem Solving, and AI integrations with MERN**  
 - ⚡ Fun fact: **I code best with chai and a good playlist! ☕🎶** 
 
 
