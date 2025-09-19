@@ -13,9 +13,6 @@
 - ⚡ Fun fact: **I code best with chai and a good playlist! ☕🎶** 
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="center">
@@ -76,6 +73,9 @@
 
 
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 <p align="left">
 <a href="https://www.linkedin.com/in/dhanush-a29b38284/" target="blank">
  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="40" />
