@@ -20,6 +20,10 @@
     <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo" />
   </a>
   <img width="12" />
+  <a href="https://nextjs.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo" />
+  </a>
+  <img width="12" />
   <a href="https://nodejs.org" target="_blank">
     <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo" />
   </a>
@@ -56,7 +60,7 @@
     <img src="https://skillicons.dev/icons?i=c" height="60" alt="c logo" />
   </a>
   <img width="12" />
-  <a href="https://www.python.org" target="_blank">
+  <a href="https://www.python.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=python" height="60" alt="python logo" />
   </a>
   <img width="12" />
