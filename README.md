@@ -97,9 +97,10 @@
   </a>
   <img width="12" /> 
   <a href="https://github.com/dhanush18100" target="blank">
-    <img align="center" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark-Light.png" alt="github" height="40" width="40" />
+    <img align="center" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github" height="40" width="40" style="filter: invert(1);" />
   </a>
 </p>
+
 
 
 
