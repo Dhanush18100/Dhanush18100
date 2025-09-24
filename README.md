@@ -3,11 +3,6 @@
 <h1 align="center">Hi 👋, I'm Dhanush</h1>
 <h3 align="center">A passionate FullStack Developer(MERN) from India</h3>
 
-<marquee behavior="scroll" direction="left" scrollamount="6" style="color:#00F7FF; font-weight:bold; font-size:18px;">
-🚀 Keep Building | Keep Learning | Keep Growing | Turning Coffee ☕ into Code 💻 | MERN + AI Enthusiast 🌟
-</marquee>
-
-
 ## 🔥 About Me  
 - 🔭 Currently working on **MERN Projects**  
 - 👯 Open to collaborate on **FullStack / AI + MERN projects**  
@@ -15,6 +10,9 @@
 - 📚 Exploring **Problem Solving, and AI integrations with MERN**  
 - ⚡ Fun fact: **I code best with chai and a good playlist! ☕🎶** 
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=00F7FF&center=true&vCenter=true&width=500&lines=🚀+Keep+Building;📚+Keep+Learning;🌱+Keep+Growing;☕+Turning+Coffee+into+Code" alt="Motivation Typing SVG" />
+</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
