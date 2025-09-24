@@ -10,9 +10,7 @@
 - 📚 Exploring **Problem Solving, and AI integrations with MERN**  
 - ⚡ Fun fact: **I code best with chai and a good playlist! ☕🎶** 
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=00F7FF&center=true&vCenter=true&width=500&lines=🚀+Keep+Building;📚+Keep+Learning;🌱+Keep+Growing;☕+Turning+Coffee+into+Code" alt="Motivation Typing SVG" />
-</p>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -102,6 +100,9 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=00F7FF&center=true&vCenter=true&width=500&lines=🚀+Keep+Building;📚+Keep+Learning;🌱+Keep+Growing;☕+Turning+Coffee+into+Code" alt="Motivation Typing SVG" />
+</p>
 
 
 
