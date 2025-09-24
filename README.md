@@ -3,6 +3,9 @@
 <h1 align="center">Hi 👋, I'm Dhanush</h1>
 <h3 align="center">A passionate FullStack Developer(MERN) from India</h3>
 
+<marquee behavior="scroll" direction="left" scrollamount="6" style="color:#00F7FF; font-weight:bold; font-size:18px;">
+🚀 Keep Building | Keep Learning | Keep Growing | Turning Coffee ☕ into Code 💻 | MERN + AI Enthusiast 🌟
+</marquee>
 
 
 ## 🔥 About Me  
