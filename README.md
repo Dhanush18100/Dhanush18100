@@ -2,6 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Dhanush</h1>
 <h3 align="center">A passionate FullStack Developer(MERN) from India</h3>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&color=00F7FF&center=true&vCenter=true&width=500&lines=🚀+Keep+Building;📚+Keep+Learning;🌱+Keep+Growing;☕+Turning+Coffee+into+Code" alt="Motivation Typing SVG" />
 </p>
