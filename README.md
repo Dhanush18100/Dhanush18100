@@ -1,4 +1,3 @@
-**Hi**
 
 <h1 align="center">Hi 👋, I'm Dhanush</h1>
 <h3 align="center">A passionate FullStack Developer(MERN) from India</h3>
@@ -18,7 +17,7 @@
 
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">💻 Tech Stack:</h3>
 <div align="center">
   <a href="https://reactjs.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo" />
