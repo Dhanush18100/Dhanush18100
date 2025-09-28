@@ -18,7 +18,7 @@
 
 
 
-<h3 align="left">💻 Tech Stack:</h3>
+<h3 align="left">💻 Tech Stack</h3>
 <div align="center">
   <a href="https://reactjs.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo" />
