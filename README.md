@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Dhanush</h1>
 <h3 align="center">A passionate FullStack Developer(MERN) from India</h3>
 
