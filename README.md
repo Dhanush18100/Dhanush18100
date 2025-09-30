@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Dhanush</h1>
-<h3 align="center">A passionate FullStack Developer(MERN) from India</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Dhanush&fontAlign=50&fontAlignY=40&color=gradient" />
+</p>
+
+<h2 align="center">🚀 Information Science & Engineering Student | Full-Stack Developer </h2>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&color=00F7FF&center=true&vCenter=true&width=500&lines=🚀+Keep+Building;📚+Keep+Learning;🌱+Keep+Growing;🚀+Chasing+dreams,+not+excuses;🏆+I+won't+quit+until+I+win" alt="" />
