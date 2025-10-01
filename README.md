@@ -88,25 +88,16 @@
   </a>
 </div>
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-
-  <!-- Left Card: GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=dhanush18100&show_icons=true&locale=en&hide_title=false&hide_rank=false&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&hide_border=false" 
-       height="150" 
-       alt="GitHub Stats" />
-
-  <!-- Right Card: Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dhanush18100&layout=compact&langs_count=5&locale=en&theme=radical&hide_title=false&hide_border=false&card_width=320" 
+<div> 
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dhanush18100&layout=compact&langs_count=5&locale=en&theme=radical&hide_title=false&hide_border=false&card_width=320" 
        height="150" 
        alt="Top Languages" />
-
+  </p> 
+  <div align="center" style="background: #00F7FF; border-radius: 12px; box-shadow: 0 0 20px #00F7FF, 0 0 30px #9B5DE5; display: inline-block; padding: 20px;"> <img src="https://github-streak-stats-ruby.vercel.app/?user=dhanush18100&theme=radical&ring=00F7FF&fire=9B5DE5&currStreakLabel=00F7FF&sideNums=9B5DE5&currStreakNum=00F7FF&sideLabels=9B5DE5&dates=00F7FF&hide_border=true" /> 
+  </div>
 </div>
 
-<!-- Streak Card Below -->
-<div align="center" style="margin-top: 20px;">
-  <img src="https://github-streak-stats-ruby.vercel.app/?user=dhanush18100&theme=radical&ring=00F7FF&fire=9B5DE5&currStreakLabel=00F7FF&sideNums=9B5DE5&currStreakNum=00F7FF&sideLabels=9B5DE5&dates=00F7FF&hide_border=true" 
-       alt="GitHub Streak" />
-</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
