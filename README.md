@@ -88,16 +88,7 @@
   </a>
 </div>
 
-<div style="background: linear-gradient(135deg, #00F7FF, #9B5DE5); border-radius: 12px; display: inline-block; padding: 10px;">
-  <img align="left" 
-       src="https://github-readme-stats.vercel.app/api/top-langs?username=dhanush18100&show_icons=true&locale=en&layout=compact" 
-       alt="dhanush18100" />
-</div>
-
-
-</div>
-
-</div>
+<div> <p><img align="left" style="background: #00F7FF" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhanush18100&show_icons=true&locale=en&layout=compact" alt="dhanush18100" /></p> <div align="center" style="background: #00F7FF; border-radius: 12px; box-shadow: 0 0 20px #00F7FF, 0 0 30px #9B5DE5; display: inline-block; padding: 20px;"> <img src="https://github-streak-stats-ruby.vercel.app/?user=dhanush18100&theme=radical&ring=00F7FF&fire=9B5DE5&currStreakLabel=00F7FF&sideNums=9B5DE5&currStreakNum=00F7FF&sideLabels=9B5DE5&dates=00F7FF&hide_border=true" /> </div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
