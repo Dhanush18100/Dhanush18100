@@ -88,7 +88,7 @@
   </a>
 </div>
 
-<table width="100%">
+<table width="100% margin-top=20px">
   <tr>
     <!-- Left Card: Top Languages -->
     <td align="left">
