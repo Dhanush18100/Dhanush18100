@@ -88,7 +88,7 @@
   </a>
 </div>
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
+<div style="display: flex; justify-content: space-between; align-items: center; width: 100%; max-width: 800px; margin: auto;">
 
   <!-- Left Card: Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dhanush18100&layout=compact&langs_count=5&locale=en&theme=radical&hide_title=false&hide_border=false&card_width=320" 
@@ -102,6 +102,7 @@
   </div>
 
 </div>
+
 
 
 
