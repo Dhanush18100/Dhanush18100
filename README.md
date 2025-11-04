@@ -98,7 +98,7 @@
     </td>
     <td align="right">
    
- <img src="https://streak-stats.demolab.com?username=Dhanush18100&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5" height="220" alt="streak graph" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=Dhanush18100&theme=radical&hide_border=false" height="160"/>
 
 
    </td>
