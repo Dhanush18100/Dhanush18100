@@ -97,8 +97,8 @@
            alt="Top Languages" />
     </td>
     <td align="right">
-   
-<img src="https://nirzak-streak-stats.vercel.app/?user=Dhanush18100&theme=radical&hide_border=false" height="160"/>
+     
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Dhanush18100&theme=radical&hide_border=false" height="160"/>
 
 
    </td>
