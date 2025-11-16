@@ -86,6 +86,9 @@
   <a href="https://www.postman.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=postman" height="60" alt="postman logo" />
   </a>
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo" />
+  </a>
 </div>
 
 <table width="100%">
