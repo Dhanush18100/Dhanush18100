@@ -93,25 +93,22 @@
 
 <table width="100%">
   <tr>
-    <!-- Left Card: Top Languages -->
+    <!-- Left Card -->
     <td align="left">
-  
- 
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Dhanush18100&theme=react&hide_border=false" height="160"/>
-  
-</p>
+      <img 
+        src="https://nirzak-streak-stats.vercel.app/?user=Dhanush18100&theme=react&hide_border=false" 
+        height="160"
+      />
+    </td>
     <td align="right">
-     <img src="https://nirzak-streak-stats.vercel.app/?user=Dhanush18100&theme=radical&hide_border=false" height="160"/>
-
-
-
-   </td> 
-
-   
- 
-
+      <img 
+        src="https://nirzak-streak-stats.vercel.app/?user=Dhanush18100&theme=radical&hide_border=false" 
+        height="160"
+      />
+    </td>
   </tr>
 </table>
+
 
 
 
