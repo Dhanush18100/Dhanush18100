@@ -95,7 +95,7 @@
   <tr>
     <!-- Left Card: Top Languages -->
     <td align="left">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dhanush18100&layout=compact&langs_count=5&locale=en&theme=radical&hide_title=false&hide_border=false&card_width=320" 
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dhanush18100&layout=compact&langs_count=5&locale=en&theme=radical&hide_title=false&hide_border=false&card_width=320" 
            height="150" 
            alt="Top Languages" />
     </td>
