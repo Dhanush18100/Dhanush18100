@@ -95,10 +95,11 @@
   <tr>
     <!-- Left Card: Top Languages -->
     <td align="left">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dhanush18100&layout=compact&langs_count=5&locale=en&theme=radical&hide_title=false&hide_border=false&card_width=320" 
-           height="150" 
-           alt="Top Languages" />
-    </td>
+    <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dhanush18100&theme=react&show_icons=true&hide_border=false&count_private=true" height="160"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Dhanush18100&theme=react&hide_border=false" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanush18100&theme=react&layout=compact&hide_border=false" height="160"/>
+</p>
     <td align="right">
      <img src="https://nirzak-streak-stats.vercel.app/?user=Dhanush18100&theme=radical&hide_border=false" height="160"/>
 
