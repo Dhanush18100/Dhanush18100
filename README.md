@@ -93,13 +93,14 @@
 
 <table width="100%">
   <tr>
-    <!-- Left Card -->
+    <!-- Left Card: Top Languages Used -->
     <td align="left">
       <img 
-        src="https://nirzak-streak-stats.vercel.app/?user=Dhanush18100&theme=react&hide_border=false" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanush18100&layout=compact&theme=react&hide_border=false" 
         height="160"
       />
     </td>
+    <!-- Right Card: Streak Stats -->
     <td align="right">
       <img 
         src="https://nirzak-streak-stats.vercel.app/?user=Dhanush18100&theme=radical&hide_border=false" 
@@ -108,6 +109,7 @@
     </td>
   </tr>
 </table>
+
 
 
 
