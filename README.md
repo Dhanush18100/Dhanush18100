@@ -95,10 +95,10 @@
   <tr>
     <!-- Left Card: Top Languages Used -->
     <td align="left">
-      <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanush18100&layout=compact&theme=react&hide_border=false" 
-        height="160"
-      />
+     <img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanush18100&layout=compact&theme=react&hide_border=false&langs_count=8" 
+  height="160"
+/>
     </td>
     <!-- Right Card: Streak Stats -->
     <td align="right">
