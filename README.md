@@ -89,7 +89,7 @@
   <a href="https://www.docker.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo" />
   </a>
-</div> this is my current profile
+
 
 
 <table width="100%">
