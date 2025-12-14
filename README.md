@@ -96,7 +96,7 @@
     <img src="https://skillicons.dev/icons?i=supabase" height="60" alt="supabase logo" />
   </a>
   <a href="https://www.render.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=render" height="60" alt="render logo" />
+    <img src="https://skillicons.dev/icons?i=render" invert height="60" alt="render logo" />
   </a>
   <a href="https://www.vercel.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=vercel" height="60" alt="vercel logo" />
