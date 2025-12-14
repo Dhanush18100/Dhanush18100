@@ -95,7 +95,7 @@
   <a href="https://www.supabase.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=supabase" height="60" alt="supabase logo" />
   </a>
-  
+</div>
 
 
 
