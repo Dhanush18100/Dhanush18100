@@ -96,7 +96,7 @@
     <img src="https://skillicons.dev/icons?i=supabase" height="60" alt="supabase logo" />
   </a>
   <a href="https://render.com" target="_blank">
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white" height="60" alt="Render" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" height="60" alt="Render" />
 </a>
 
   <a href="https://www.vercel.com/" target="_blank">
