@@ -90,8 +90,12 @@
     <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo" />
   </a>
   <a href="https://www.firebase.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=firebase" height="60" alt="docker logo" />
+    <img src="https://skillicons.dev/icons?i=firebase" height="60" alt="firebase logo" />
   </a>
+  <a href="https://www.supabase.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=supabase" height="60" alt="supabase logo" />
+  </a>
+  
 
 
 
