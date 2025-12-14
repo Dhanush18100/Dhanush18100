@@ -95,9 +95,12 @@
   <a href="https://www.supabase.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=supabase" height="60" alt="supabase logo" />
   </a>
-  <a href="https://render.com" target="_blank">
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" height="60" alt="Render" />
+ <a href="https://vercel.com" target="_blank">
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"
+       height="60"
+       alt="Vercel" />
 </a>
+
 
   <a href="https://www.vercel.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=vercel" height="60" alt="vercel logo" />
