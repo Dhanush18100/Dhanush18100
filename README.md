@@ -16,7 +16,9 @@
 - 👯 Open to collaborate on **FullStack / AI + MERN projects**  
 - 🤝 Active in **Open Source** contributions  
 - 📚 Exploring **Problem Solving, and AI integrations with MERN**  
-- ⚡ Fun fact: **I code best with chai and a good playlist! ☕🎶** 
+- ⚡ Fun fact: **I code best with chai and a good playlist! ☕🎶**
+- 📄 **Resume:** [View Resume](https://drive.google.com/file/d/1p9hcXWTlrQOegUZU5aUXuNdsASOEPPfv/view?usp=sharing)
+- 🌐 **Portfolio:** [Visit Portfolio](https://portfolio-frontend-kmoh.onrender.com)
 
 
 
