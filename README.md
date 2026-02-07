@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=00F7FF&center=true&vCenter=true&width=500&lines=🚀+Keep+Building;📚+Keep+Learning;🌱+Keep+Growing;🚀+Chasing+dreams,+not+excuses;🏆+I+won't+quit+until+I+win" alt="" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=00F7FF&center=true&vCenter=true&width=500&lines=🚀+Keep+Building;📚+Keep+Learning;🌱+Keep+Growing;🚀+Chasing+dreams;🏆+I+won't+quit+until+I+win" alt="" />
 </p>
 
 
