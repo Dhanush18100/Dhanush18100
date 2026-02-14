@@ -103,23 +103,17 @@
 
 
 
-<table width="100%">
-  <tr>
-    <!-- Left Card: Top Languages Used -->
-    <td align="left">
-<img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanush18100&theme=tokyonight&layout=compact" 
-/>
-    </td>
-    <!-- Right Card: Streak Stats -->
-    <td align="right">
-      <img 
-        src="https://nirzak-streak-stats.vercel.app/?user=Dhanush18100&theme=radical&hide_border=false" 
-        height="160"
-      />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanush18100&theme=tokyonight&layout=compact" 
+    height="160"
+  />
+  <img 
+    src="https://streak-stats.demolab.com?user=Dhanush18100&theme=radical" 
+    height="160"
+  />
+</p>
+
 
 
 
