@@ -102,19 +102,10 @@
 
 
 
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanush18100&theme=tokyonight&layout=compact" 
-    height="160"
-  />
-  <img 
-    src="https://streak-stats.demolab.com?user=Dhanush18100&theme=radical" 
-    height="160"
-  />
-</p>
-
-
+<h3 align="left">🔥   My Stats :</h3>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Dhanush18100&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
 
 
